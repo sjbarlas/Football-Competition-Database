@@ -1,6 +1,3 @@
-Database2013
-============
-
 Group Members:
 
 1. Justin Capocci
