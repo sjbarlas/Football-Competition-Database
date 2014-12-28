@@ -1,5 +1,5 @@
 /* 
-Student Name: Saira Barlas
+Student Name: Saira J. Barlas
 Student Number: C12809080
 Case Study: Football Competition
 */
